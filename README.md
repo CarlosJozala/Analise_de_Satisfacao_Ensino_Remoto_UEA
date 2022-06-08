@@ -1,11 +1,11 @@
-# Análise Estatística entre Alunos na UEA em relação ao Ensino remoto :bar_chart:
+# :bar_chart: Análise Estatística entre Alunos na UEA em relação ao Ensino remoto
 Neste projeto foi investigado o grau de satisfação dos alunos na UEA sobre o ensino remoto, refente a disciplina de probabilidade e estatística
 Foram utilizadas tecnologias para coleta de dados e sua manipulação, tais como: Google Forms (Coleta), Python(Análise), Excel(Transcrição CSV) e Power BI (Análise Opcional)
 
-# Objetivo do Projeto
+# :bookmark_tabs:	Objetivo do Projeto
 Analisar e contextualizar a situação do ensino remoto na UEA com a utilização de tecnologias para o ensino remoto, além de realizar um diagnóstico de apoio ao centro psicológico da instituição para comparação e controle situacionais.
 
-# Detalhamento
+# :pushpin: Detalhamento
 Para Obteção de dados foi utilizado diretamente a plataforma Google Forms, gerando uma base para tomada de decisões
 
 
