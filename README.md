@@ -6,7 +6,7 @@ Foram utilizadas tecnologias para coleta de dados e sua manipulação, tais como
 Analisar e contextualizar a situação do ensino remoto na UEA com a utilização de tecnologias para o ensino remoto, além de realizar um diagnóstico de apoio ao centro psicológico da instituição para comparação e controle situacionais.
 
 # :pushpin: Detalhamento
-Para Obteção de dados foi utilizado diretamente a plataforma Google Forms, gerando uma base para tomada de decisões
+Para Obteção de dados foi utilizado diretamente a plataforma Google Forms, gerando uma base para tomada de decisões e propondo melhorias dentro da instituição.
 
 
 # Miscelânia de Imagens do Projeto
